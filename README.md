@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Darkx-01
+- 🌱 I’m currently learning JS
